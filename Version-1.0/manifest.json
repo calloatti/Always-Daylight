@@ -1,0 +1,15 @@
+{
+    "Name": "Always Daylight",
+    "Version": "1.0.0",
+    "Id": "Calloatti.AlwaysDaylight",
+    "MinimumGameVersion": "1.0.0.0",
+    "Description": "Locks the game visuals to a perpetual midday sun and skybox while keeping the underlying simulation and time cycle working.",
+    "RequiredMods": [
+        {
+            "Id": "Harmony",
+            "MinVersion": "2.4.1"
+        }
+    ],
+    "OptionalMods": [
+    ]
+}
