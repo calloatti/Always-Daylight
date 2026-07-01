@@ -2,7 +2,7 @@
 
 https://github.com/calloatti/Always-Daylight
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=
+https://steamcommunity.com/sharedfiles/filedetails/?id=3755852328
 
 Mods on GitHub
 
