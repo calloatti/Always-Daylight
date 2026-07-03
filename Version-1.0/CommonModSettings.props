@@ -87,13 +87,6 @@
     <Reference Update="@(Reference)">
       <Private>False</Private>
     </Reference>
-
-    <Compile Remove=".metadata\**" />
-    <EmbeddedResource Remove=".metadata\**" />
-    <None Remove=".metadata\**" />
-    <Compile Remove=".scratch\**" />
-    <EmbeddedResource Remove=".scratch\**" />
-    <None Remove=".scratch\**" />
   </ItemGroup>
   
   <ItemGroup>
@@ -123,10 +116,6 @@
     <None Update="thumbnail.png"><CopyToOutputDirectory>Always</CopyToOutputDirectory></None>
     <None Update="changelog.txt"><CopyToOutputDirectory>Always</CopyToOutputDirectory></None>
     <None Update="simpleconfig.txt"><CopyToOutputDirectory>Always</CopyToOutputDirectory></None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include=".metadata\" />
   </ItemGroup>
 
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
