@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Wyłącz mgłę",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Zapobiega renderowaniu mgły, zachowując wszystkie inne efekty wizualne nieba bez zmian.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Zawsze dzień",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Wymusza pozostanie pory dnia w świetle dziennym.",

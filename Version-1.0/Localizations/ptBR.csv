@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Desativar névoa",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Impede a renderização da névoa, mantendo todos os outros elementos visuais do céu inalterados.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Sempre dia",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Força a hora do dia a permanecer na luz do dia.",

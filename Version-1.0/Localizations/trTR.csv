@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Sisi devre dışı bırak",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Diğer tüm gökyüzü görsellerini değiştirmeden sisin oluşturulmasını engeller.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Her zaman gündüz",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Günün saatini gündüzde kalmaya zorlar.",

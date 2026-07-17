@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Disattiva nebbia",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Impedisce il rendering della nebbia mantenendo invariati tutti gli altri elementi visivi del cielo.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Sempre giorno",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Impone che l'ora del giorno rimanga alla luce del giorno.",

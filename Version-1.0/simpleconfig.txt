@@ -1,0 +1,25 @@
+ConfigFileName = "AlwaysDaylight.txt"
+
+Key = "DisableFog"
+Type = "bool"
+DefaultValue = false
+Label = Calloatti.Config.AlwaysDaylight.DisableFog.Label
+Tooltip = Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip
+ControlType = "Toggle"
+RequiresRestart = false
+RequiresReload = false
+AvailableInMainMenu = true
+AvailableInGame = true
+AvailableInMapEditor = true
+
+Key = "AlwaysDaylight"
+Type = "bool"
+DefaultValue = true
+Label = Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label
+Tooltip = Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip
+ControlType = "Toggle"
+RequiresRestart = false
+RequiresReload = false
+AvailableInMainMenu = true
+AvailableInGame = true
+AvailableInMapEditor = true

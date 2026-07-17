@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Nebel deaktivieren",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Verhindert das Rendern von Nebel, während alle anderen Himmelsvisuals unverändert bleiben.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Immer Tageslicht",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Erzwingt, dass die Tageszeit bei Tageslicht bleibt.",

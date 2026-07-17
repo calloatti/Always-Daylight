@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Desactivar niebla",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Evita que se renderice la niebla, manteniendo todos los demás elementos visuales del cielo sin cambios.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Siempre de día",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Obliga a que la hora del día permanezca en luz diurna.",

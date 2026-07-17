@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"안개 끄기",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"다른 모든 하늘 시각 효과를 변경하지 않고 안개 렌더링을 방지합니다.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"항상 낮",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"시간대를 낮으로 고정합니다.",

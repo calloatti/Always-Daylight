@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"禁用雾",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"阻止雾的渲染，同时保持所有其他天空视觉效果不变。",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"始终白天",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"强制时间保持在白天。",

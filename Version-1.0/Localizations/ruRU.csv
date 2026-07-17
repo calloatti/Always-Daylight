@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Отключить туман",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Предотвращает рендеринг тумана, сохраняя все остальные визуальные эффекты неба без изменений.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Всегда день",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Заставляет время суток оставаться дневным.",

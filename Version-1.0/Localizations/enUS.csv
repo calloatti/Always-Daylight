@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,Disable Fog,
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,Prevents fog from rendering while keeping all other sky visuals unchanged.,
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,Always Daylight,
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,Forces the time of day to remain at daylight.,

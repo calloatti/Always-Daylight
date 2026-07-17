@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"Désactiver le brouillard",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"Empêche le rendu du brouillard tout en conservant tous les autres visuels du ciel inchangés.",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"Toujours en journée",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"Force l'heure de la journée à rester en plein jour.",

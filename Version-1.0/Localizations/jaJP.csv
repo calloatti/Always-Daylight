@@ -1,0 +1,5 @@
+ID,Text,Comment
+Calloatti.Config.AlwaysDaylight.DisableFog.Label,"霧を無効にする",
+Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"他の空のビジュアルはすべて変更せずに、霧のレンダリングを防ぎます。",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"常に昼間",
+Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"時刻を昼間に固定します。",
