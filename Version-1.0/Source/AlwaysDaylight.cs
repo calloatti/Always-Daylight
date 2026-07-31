@@ -1,8 +1,10 @@
 using Calloatti.Config;
 using HarmonyLib;
+using System.Reflection;
 using Timberborn.Modding;
 using Timberborn.ModManagerScene;
 using Timberborn.SkySystem;
+using UnityEngine;
 
 namespace AlwaysDaylight
 {
@@ -45,6 +47,44 @@ namespace AlwaysDaylight
     {
       if (ModStarter.Config?.GetBool("DisableFog") == true)
         __instance.Fog = false;
+    }
+  }
+
+  [HarmonyPatch(typeof(Sun), nameof(Sun.UpdateShadows))]
+  internal static class SunShadowPatch
+  {
+    private static bool Prefix(Sun __instance)
+    {
+      if (ModStarter.Config?.GetBool("DisableShadows") == true)
+      {
+        var sunField = AccessTools.Field(typeof(Sun), "_sun");
+        if (sunField != null)
+        {
+          var sun = sunField.GetValue(__instance) as Light;
+          if (sun != null)
+            sun.shadows = LightShadows.None;
+        }
+        return false;
+      }
+      return true;
+    }
+  }
+
+  [HarmonyPatch(typeof(Sun), nameof(Sun.UpdateColors))]
+  internal static class SunShadowStrengthPatch
+  {
+    private static void Postfix(Sun __instance, DayStageTransition dayStageTransition)
+    {
+      if (ModStarter.Config?.GetBool("DisableShadows") == true)
+      {
+        var sunField = AccessTools.Field(typeof(Sun), "_sun");
+        if (sunField != null)
+        {
+          var sun = sunField.GetValue(__instance) as Light;
+          if (sun != null)
+            sun.shadowStrength = 0f;
+        }
+      }
     }
   }
 }

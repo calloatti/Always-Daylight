@@ -3,3 +3,5 @@ Calloatti.Config.AlwaysDaylight.DisableFog.Label,"ปิดใช้งานห
 Calloatti.Config.AlwaysDaylight.DisableFog.Tooltip,"ป้องกันการเรนเดอร์หมอกในขณะที่คงภาพท้องฟ้าอื่นๆ ทั้งหมดไว้ไม่เปลี่ยนแปลง",
 Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Label,"กลางวันเสมอ",
 Calloatti.Config.AlwaysDaylight.AlwaysDaylight.Tooltip,"บังคับให้เวลาของวันคงอยู่ในเวลากลางวัน",
+Calloatti.Config.AlwaysDaylight.DisableShadows.Label,"ปิดใช้งานเงา",
+Calloatti.Config.AlwaysDaylight.DisableShadows.Tooltip,"ปิดใช้งานเงาของดวงอาทิตย์ ในขณะที่คงภาพท้องฟ้าอื่นๆ ทั้งหมดไว้ไม่เปลี่ยนแปลง",

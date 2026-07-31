@@ -1,3 +1,5 @@
+* Game Version: 1.0.0.0 - Mod Version: 1.2.0
+- Added configurable disable shadows
 * Game Version: 1.0.0.0 - Mod Version: 1.1.0
 - Added configurable Disable Fog toggle (SimpleConfig)
 * Game Version: 1.0.0.0 - Mod Version: 1.0.0
